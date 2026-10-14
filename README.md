@@ -1,2 +1,2 @@
 # intermediate-git
-For the intermediate git class
+This is my third change
